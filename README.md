@@ -9,3 +9,5 @@ $$ Output will be created in the same directory with the name as Output.txt
 
 $$ You may follow CIS benchmark of RHEL 7 to analyse the output for any security misconfigurations.
    https://www.cisecurity.org/cis-benchmarks/
+
+In future - automatic analysis of the output.
